@@ -1,0 +1,5 @@
+.game {
+  display: flex;
+  flex-direction: row;
+  color: #F6F7F6;
+}

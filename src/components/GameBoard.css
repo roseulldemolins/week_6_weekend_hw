@@ -1,0 +1,17 @@
+.turn {
+  color: #787C86;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
+  margin-top: 40px;
+}
+
+.board{
+  margin: auto;
+  width: 50%;
+
+}
+
+.board-row{
+  text-align: center;
+}

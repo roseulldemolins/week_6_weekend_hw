@@ -1,0 +1,15 @@
+.tile {
+  background: #fff;
+  border: 3px solid #211929;
+  font-size: 125px;
+  font-weight: bold;
+  height: 175px;
+  width: 175px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 5px;
+  background-color: #F6F7F6;
+}
+
+.tile:focus {
+  outline: none;
+}
